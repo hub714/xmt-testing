@@ -1,0 +1,17 @@
+{
+  "id": "PLUG_b3eaa344-ad02-47ff-9741-61fbc21f1266",
+  "type": "workflows_task",
+  "version": "0.0.1",
+  "metadata": {
+    "tags": [
+      "survey",
+      "wf-schematized"
+    ],
+    "worker": {
+      "type": "runner"
+    }
+  },
+  "schema": {
+    "$schema": "http://json-schema.org/draft-07/schema"
+  }
+}

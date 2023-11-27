@@ -1,0 +1,37 @@
+{
+    "version": "1.0",
+    "parameters": {
+        "summary": {
+            "source": "summary"
+        },
+        "requestType": {
+            "source": "requestType"
+        },
+        "url": {
+            "source": "url"
+        },
+        "headers": {
+            "source": "headers"
+        },
+        "credentials": {
+            "source": "credentials"
+        },
+        "contentType": {
+            "source": "contextType"
+        },
+        "keyValues": {
+            "source": "keyValues"
+        }
+    },
+    "exports": {
+        "statusCode": {
+            "source": "statusCode"
+        },
+        "headers": {
+            "source": "headers"
+        },
+        "data": {
+            "source": "data"
+        }
+    }
+}

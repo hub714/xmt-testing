@@ -1,0 +1,6 @@
+{
+    "_comment": "this file will be overwritten by src/schemas/schema.json when the src directory is built",
+    "version": "1.0",
+    "parameters": {},
+    "exports": {}
+}

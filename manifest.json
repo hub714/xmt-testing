@@ -1,0 +1,12 @@
+{
+    "connections": [],
+    "id": "EXT_c456a8aa-4f4d-4690-a82f-22e657d7cc12",
+    "info": {
+        "organizationName": "",
+        "privacyUrl": "https://www.example.com",
+        "termsUrl": "https://www.example.com"
+    },
+    "metadata": {},
+    "settings": [],
+    "version": "0.0.1-SNAPSHOT"
+}
